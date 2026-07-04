@@ -11,5 +11,5 @@
  * @return {boolean}
  */
 const checkTree = function (root) {
-    return (root.right.val + root.left.val) === root.val
+    return root.val === root.left.val + root.right.val;
 };
