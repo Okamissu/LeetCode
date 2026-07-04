@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Okamissu/LeetCode/tree/master/0231-power-of-two) |
 | [2235-add-two-integers](https://github.com/Okamissu/LeetCode/tree/master/2235-add-two-integers) |
 ## Tree
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/Okamissu/LeetCode/tree/master/2236-root-equals-sum-of-children) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Okamissu/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Okamissu/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
