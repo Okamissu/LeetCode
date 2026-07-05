@@ -4,6 +4,8 @@
  * @return {boolean}
  */
 const canConstruct = function (ransomNote, magazine) {
+    if (magazine.length < ransomNote.length) return false;
+
     const letterDict = {};
 
     for (const letter of magazine) {
