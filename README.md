@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Okamissu/LeetCode/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/Okamissu/LeetCode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/Okamissu/LeetCode/tree/master/2235-add-two-integers) |
 ## Tree
 |  |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Okamissu/LeetCode/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Okamissu/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Okamissu/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
