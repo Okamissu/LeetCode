@@ -9,20 +9,53 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
-var middleNode = function(head) {
-    let length = 1
-    let current = head
 
-    while(current.next !== null){
-        current = current.next
-        length++
+// Optimal solution (slow/fast pointers)
+
+const middleNode = function(head){
+    let slow = head
+    let fast = head
+
+    while(fast && fast.next){
+        fast = fast.next.next
+        slow = slow.next
     }
 
-    console.log(length, length/2)
+    return slow
+}
 
-    current = head
-    for(let i = 0; i < Math.floor(length/2); i++)
-        current = current.next
+// Alternative solution (single traversal using an iteration counter)
 
-    return current
-};
+// const middleNode = function (head) {
+//     let middlePointer = head
+//     let endPointer = head
+
+//     for (let i = 0; endPointer.next; i++) {
+//         endPointer = endPointer.next
+//         if (i % 2 === 0) middlePointer = middlePointer.next
+//     }
+
+//     return middlePointer
+// }
+
+// Baseline solution (count length, then traverse to the middle)
+
+// const middleNode = function(head) {
+//     let length = 1;
+//     let current = head;
+
+//     while (current.next) {
+//         current = current.next;
+//         length++;
+//     }
+
+//     const middle = Math.floor(length / 2);
+
+//     current = head;
+
+//     for (let i = 0; i < middle; i++) {
+//         current = current.next;
+//     }
+
+//     return current;
+// };
