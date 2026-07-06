@@ -3,11 +3,14 @@
  * @return {boolean}
  */
 const containsDuplicate = function(nums) {
-    const numCount = {}
+    const seen = {};
 
-    for(const num of nums){
-        numCount[num] = (numCount[num] || 0) + 1
+    for (const num of nums) {
+        if (seen[num]) {
+            return true;
+        }
+        seen[num] = true;
     }
 
-    return Object.values(numCount).some( n => n > 1)
+    return false;
 };
