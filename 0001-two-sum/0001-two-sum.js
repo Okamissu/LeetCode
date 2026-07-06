@@ -5,20 +5,32 @@
  */
 
 
-// brute force
-const twoSum = function (nums, target) {
-    let n = 0;
-    let m = 1;
+// brute force using for + cache length
 
-    while (n < nums.length) {
-        while (m < nums.length) {
+const twoSum = function (nums, target){
+    const len = nums.length
 
-            if (nums[n] + nums[m] === target) return [n, m]
-            m++
+    for(let i = 0; i < len; i++){
+        for(let j = i+1; j < len; j++){
+            if(nums[i] + nums[j] === target) return [i,j]
         }
-        n++
-        m=n+1
     }
+}
+
+// brute force
+// const twoSum = function (nums, target) {
+//     let n = 0;
+//     let m = 1;
+
+//     while (n < nums.length) {
+//         while (m < nums.length) {
+
+//             if (nums[n] + nums[m] === target) return [n, m]
+//             m++
+//         }
+//         n++
+//         m=n+1
+//     }
 
 
-};
+// };
