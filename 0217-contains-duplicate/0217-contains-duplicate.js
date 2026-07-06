@@ -2,9 +2,24 @@
  * @param {number[]} nums
  * @return {boolean}
  */
-const containsDuplicate = nums => new Set(nums).size !== nums.length
+
+const containsDuplicate = nums => {
+    const seen = new Set()
+
+    for(const num of nums){
+        if (seen.has(num))
+            return true
+
+        seen.add(num)
+    }
+
+    return false
+}
 
 
+// One liner
+
+// const containsDuplicate = nums => new Set(nums).size !== nums.length
 
 // 1st approach
 
