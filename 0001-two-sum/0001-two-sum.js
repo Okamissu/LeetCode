@@ -3,19 +3,29 @@
  * @param {number} target
  * @return {number[]}
  */
+// hash map
+const twoSum = function(nums, target){
+    const seen = {}
 
+    for(let i = 0; i< nums.length; i++){
+        const complement = target - nums[i]
 
-// brute force using for + cache length
+        if(seen[complement] !== undefined) return [i, seen[complement]]
 
-const twoSum = function (nums, target){
-    const len = nums.length
-
-    for(let i = 0; i < len; i++){
-        for(let j = i+1; j < len; j++){
-            if(nums[i] + nums[j] === target) return [i,j]
-        }
+        seen[nums[i]] = i
     }
 }
+
+// brute force using for + cache length
+// const twoSum = function (nums, target){
+//     const len = nums.length
+
+//     for(let i = 0; i < len; i++){
+//         for(let j = i+1; j < len; j++){
+//             if(nums[i] + nums[j] === target) return [i,j]
+//         }
+//     }
+// }
 
 // brute force
 // const twoSum = function (nums, target) {
