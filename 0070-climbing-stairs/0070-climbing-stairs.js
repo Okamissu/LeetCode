@@ -3,11 +3,16 @@
  * @return {number}
  */
 const climbStairs = (n) => {
-    const ways = [1,1]
+    if (n <= 1) return 1;
 
-    for(let i = 2; i <= n; i++){
-        ways[i] = ways[i-1] + ways[i-2]
+    let prev2 = 1;
+    let prev1 = 1;
+
+    for (let i = 2; i <= n; i++) {
+        const current = prev1 + prev2;
+        prev2 = prev1;
+        prev1 = current;
     }
 
-    return ways[n]
+    return prev1;
 };
