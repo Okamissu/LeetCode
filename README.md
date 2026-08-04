@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Okamissu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Okamissu/LeetCode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Okamissu/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Okamissu/LeetCode/tree/master/0509-fibonacci-number) |
@@ -78,9 +79,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Okamissu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Okamissu/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Okamissu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Okamissu/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
