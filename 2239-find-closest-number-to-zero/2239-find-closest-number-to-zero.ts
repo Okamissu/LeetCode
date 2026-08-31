@@ -1,14 +1,19 @@
 function findClosestNumber(nums: number[]): number {
-    let closest = nums[0];
+    let closestIndex = 0;
+    
+    for(let i = 1; i < nums.length; i++){
+        const itemValue = Math.abs(nums[i])
+        const closestValue = Math.abs(nums[closestIndex])
 
-    for (const num of nums) {
-        if (
-            Math.abs(num) < Math.abs(closest) ||
-            (Math.abs(num) === Math.abs(closest) && num > closest)
-        ) {
-            closest = num;
+        if (itemValue < closestValue){
+            closestIndex = i
+        }
+        else if (itemValue === closestValue){
+            if(nums[i] > nums[closestIndex]){
+                closestIndex = i
+            }
         }
     }
 
-    return closest;
-}
+    return nums[closestIndex]
+};
