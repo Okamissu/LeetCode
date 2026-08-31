@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Okamissu/LeetCode/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/Okamissu/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Okamissu/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [2239-find-closest-number-to-zero](https://github.com/Okamissu/LeetCode/tree/main/2239-find-closest-number-to-zero/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
