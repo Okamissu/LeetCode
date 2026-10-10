@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Okamissu/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Okamissu/LeetCode/tree/master/0412-fizz-buzz) |
+| [1768-merge-strings-alternately](https://github.com/Okamissu/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Okamissu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Okamissu/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/Okamissu/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
