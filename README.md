@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Okamissu/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/Okamissu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Okamissu/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Okamissu/LeetCode/tree/master/0231-power-of-two) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Okamissu/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0383-ransom-note](https://github.com/Okamissu/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Okamissu/LeetCode/tree/master/0412-fizz-buzz) |
 | [1768-merge-strings-alternately](https://github.com/Okamissu/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Okamissu/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Okamissu/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/Okamissu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Okamissu/LeetCode/tree/master/0383-ransom-note) |
 ## Counting
