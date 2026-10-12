@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Okamissu/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0383-ransom-note](https://github.com/Okamissu/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Okamissu/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/Okamissu/LeetCode/tree/master/0412-fizz-buzz) |
 | [1768-merge-strings-alternately](https://github.com/Okamissu/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Simulation
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Okamissu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0392-is-subsequence](https://github.com/Okamissu/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Okamissu/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Okamissu/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Hash Table
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Okamissu/LeetCode/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/Okamissu/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Okamissu/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 | Problem Name | Difficulty |
