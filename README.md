@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Okamissu/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0204-count-primes](https://github.com/Okamissu/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/Okamissu/LeetCode/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/Okamissu/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Okamissu/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Okamissu/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2239-find-closest-number-to-zero](https://github.com/Okamissu/LeetCode/tree/main/2239-find-closest-number-to-zero/) | Easy |
