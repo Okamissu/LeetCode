@@ -3,11 +3,8 @@ function majorityElement(nums: number[]): number {
 
     for (let num of nums) {
         counts.set(num, (counts.get(num) ?? 0) + 1);
+        if (counts.get(num) > nums.length/2) return num
     }
 
-    for (let [key, val] of counts.entries()) {
-        if (val > nums.length / 2) return key; 
-    }
-    
     return -1; 
 };
