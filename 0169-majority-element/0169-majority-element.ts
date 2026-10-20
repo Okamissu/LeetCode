@@ -1,18 +1,18 @@
 function majorityElement(nums: number[]): number {
-    let count = 1
-    let response = nums[0]
+    let count = 0;
+    let response = nums[0];
 
-    for (let i = 1; i < nums.length; i++) {
-        if (nums[i] === response)
-            count++
-        else
-            count--
+    for (let i = 0; i < nums.length; i++) {
+        if (count === 0) {
+            response = nums[i];
+        }
 
-        if (count < 0){
-            count = 1
-            response = nums[i]
+        if (nums[i] === response) {
+            count++;
+        } else {
+            count--;
         }
     }
 
-    return response
+    return response;
 }
