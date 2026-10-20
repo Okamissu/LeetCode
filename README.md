@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Okamissu/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Okamissu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Okamissu/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/Okamissu/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/Okamissu/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/Okamissu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Okamissu/LeetCode/tree/main/0228-summary-ranges/) | Easy |
@@ -82,15 +83,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Okamissu/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Okamissu/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0169-majority-element](https://github.com/Okamissu/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Okamissu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Okamissu/LeetCode/tree/master/0383-ransom-note) |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Okamissu/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/Okamissu/LeetCode/tree/master/0383-ransom-note) |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Okamissu/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Okamissu/LeetCode/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -128,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Okamissu/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Okamissu/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Okamissu/LeetCode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
