@@ -1,7 +1,18 @@
 function majorityElement(nums: number[]): number {
-    nums.sort((a, b) => a - b);
+    let count = 1
+    let response = nums[0]
 
-    const middleIndex = Math.floor(nums.length / 2);
-    
-    return nums[middleIndex];
+    for (let i = 1; i < nums.length; i++) {
+        if (nums[i] === response)
+            count++
+        else
+            count--
+
+        if (count < 0){
+            count = 1
+            response = nums[i]
+        }
+    }
+
+    return response
 }
